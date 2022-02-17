@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @IDHENRY
+- 👀 I’m interested in learning to code!
+- 🌱 I’m currently learning Computer Science 1
